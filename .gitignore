@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# Logs
+*.log
+
+# Outros arquivos temporários
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Arquivos de benchmark grandes
+*.npy
+*.npz
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.h5
+*.tflite

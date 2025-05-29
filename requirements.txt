@@ -1,3 +1,4 @@
 # Dependências para todos os scripts de benchmark (bench-auto.py, bench-cpu.py, bench-gpu.py, bench-mac.py)
 # Recomenda-se instalar o PyTorch conforme o ambiente (https://pytorch.org/get-started/locally/)
 torch
+numpy
